@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-depot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "args.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teocyp/nodeJsDepot.git"
+  },
+  "author": "Teo A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teocyp/nodeJsDepot/issues"
+  },
+  "homepage": "https://github.com/teocyp/nodeJsDepot#readme"
+}
